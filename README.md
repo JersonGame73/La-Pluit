@@ -4,8 +4,8 @@
 npm create astro@latest -- --template basics
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://github.com/JersonGame73/La-Pluit)
-[![Open in Web Site](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://github.com/JersonGame73/La-Pluit)
+[![Open in Vercel](/public/Powered%20by%20Vercel%20Badge.svg)](https://la-pluit.vercel.app)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/JersonGame73/La-Pluit)
 
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
